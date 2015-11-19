@@ -11,6 +11,6 @@ public class countATest {
 		JunitTesting test = new JunitTesting();
 		int output = test.countA("alphabet");
 		assertEquals(2, output);
-		System.out.print("Test");	}
+		System.out.print("Test2");	}
 
 }
